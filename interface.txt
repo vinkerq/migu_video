@@ -12,7 +12,7 @@ http://pull-hs-f5.flive.douyincdn.com/media/stream-695199811564733100/index.m3u8
 #EXTINF:-1 tvg-id="CCTV13新闻" tvg-name="CCTV13新闻" tvg-logo="" group-title="央视频道",CCTV13新闻
 http://pull-hls-f1.douyincdn.com/media/stream-695236781635011244/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260201084040762AD6EF7F62F847F9C7-jI2I18&wsSecret=85681436b041bea9851727386a1a8d2c&wsTime=697ea108
 #EXTINF:-1 tvg-id="CCTV17农业农村" tvg-name="CCTV17农业农村" tvg-logo="" group-title="央视频道",CCTV17农业农村
-http://pull-hs-f5.flive.douyincdn.com/media/stream-695234889566126764/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1770510943&major_anchor_level=common&sign=dd29a839e4c1695baa854e62d1520175&t_id=037-20260201083542E2A9E7FA3B89F8A17BA8-arf6Qh&volcSecret=dd29a839e4c1695baa854e62d1520175&volcTime=1770510943
+http://pull-hs-f5.flive.douyincdn.com/media/stream-695241375974687404/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1770599464&major_anchor_level=common&sign=ef360937e5ddb9fd2b594b8ad4572d41&t_id=037-20260202091103524BCD0E20DF4EDDA9B1-R6Hnle&volcSecret=ef360937e5ddb9fd2b594b8ad4572d41&volcTime=1770599464
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="" group-title="卫视频道",浙江卫视
 http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="" group-title="卫视频道",浙江卫视
@@ -21,10 +21,16 @@ http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/gdwshd265/54/20200407/index.m3u8?msisdn=20260201083206008e231e275c47799b39344afaf14e78&mdspid=&spid=699054&netType=4&sid=2202428795&pid=2028597139&timestamp=20260201083206&Channel_ID=0116_2600001300-99000-201600010013853&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=42.49.111.178&SecurityKey=20260201083206&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=5dbbb9416e59d91c1e4581ee64ed5075
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="" group-title="卫视频道",东南卫视
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/dongnanws/51/20230724/index.m3u8?msisdn=20260131120537ff90b25b44064c7ea33faa61aa92ffe4&mdspid=&spid=600717&netType=4&sid=5910022182&pid=2028597139&timestamp=20260131120537&Channel_ID=0116_2600001300-99000-201600010013853&ProgramID=849116810&ParentNodeID=-99&assertID=5910022182&client_ip=42.49.111.120&SecurityKey=20260131120537&promotionId=&mvid=5900006229&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f51d7372d92c8164cb063d1fd5ec6ed8
+#EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" tvg-logo="" group-title="广东地区",广东民生
+http://183.11.239.36:808/hls/18/index.m3u8
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="" group-title="广东地区",广东体育
+http://120.238.85.131:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="" group-title="广东地区",广东少儿
 http://120.238.85.131:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="" group-title="广东地区",广东影视
 http://120.238.85.131:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="广东4K超高清" tvg-name="广东4K超高清" tvg-logo="" group-title="广东地区",广东4K超高清
+http://183.11.239.36:808/hls/9/index.m3u8
 #EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="" group-title="浙江地区",浙江少儿
 http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
 #EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="" group-title="浙江地区",浙江少儿
@@ -534,7 +540,7 @@ http://pull-hs-f5.flive.douyincdn.com/media/stream-695199811564733100/index.m3u8
 #EXTINF:-1 tvg-id="CCTV13超清" tvg-name="CCTV13超清" tvg-logo="" group-title="超清频道",CCTV13超清
 http://pull-hls-f1.douyincdn.com/media/stream-695236781635011244/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260201084040762AD6EF7F62F847F9C7-jI2I18&wsSecret=85681436b041bea9851727386a1a8d2c&wsTime=697ea108
 #EXTINF:-1 tvg-id="CCTV17超清" tvg-name="CCTV17超清" tvg-logo="" group-title="超清频道",CCTV17超清
-http://pull-hs-f5.flive.douyincdn.com/media/stream-695234889566126764/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1770510943&major_anchor_level=common&sign=dd29a839e4c1695baa854e62d1520175&t_id=037-20260201083542E2A9E7FA3B89F8A17BA8-arf6Qh&volcSecret=dd29a839e4c1695baa854e62d1520175&volcTime=1770510943
+http://pull-hs-f5.flive.douyincdn.com/media/stream-695241375974687404/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1770599464&major_anchor_level=common&sign=ef360937e5ddb9fd2b594b8ad4572d41&t_id=037-20260202091103524BCD0E20DF4EDDA9B1-R6Hnle&volcSecret=ef360937e5ddb9fd2b594b8ad4572d41&volcTime=1770599464
 #EXTINF:-1 tvg-id="浙江卫视超清" tvg-name="浙江卫视超清" tvg-logo="" group-title="超清频道",浙江卫视超清
 http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 #EXTINF:-1 tvg-id="浙江卫视超清" tvg-name="浙江卫视超清" tvg-logo="" group-title="超清频道",浙江卫视超清
