@@ -6,10 +6,12 @@ CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
 卫视频道,#genre#
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
-辽宁卫视,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?msisdn=20260208114041d8d2349a14da474e9d845c72d464e8ef&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20260208114041&Channel_ID=0116_2600036500-99000-201600010014499&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=115.53.204.86&SecurityKey=20260208114041&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b9c769cb084d32c7810d787a45476841&sv=10004&ct=android
+辽宁卫视,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?msisdn=202602081725520981a78057aa4fdd9c34d12ce10fff73&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20260208172552&Channel_ID=0116_2600036500-99000-201600010014540&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=61.158.134.200&SecurityKey=20260208172552&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3dcfacc9ae42bfe9359ee45c12c336c6&sv=10004&ct=android
+东南卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/dongnanws/51/20230724/index.m3u8?msisdn=20260208180507202ac391e86845ab90f16ac966acc977&mdspid=&spid=600717&netType=0&sid=5910022182&pid=2028597139&timestamp=20260208180507&Channel_ID=0116_2600036500-99000-201600010014578&ProgramID=849116810&ParentNodeID=-99&assertID=5910022182&client_ip=124.236.97.169&SecurityKey=20260208180507&promotionId=&mvid=5900006229&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ff05b59c1364d0ea5f8a0c7bd2a8d948&sv=10004&ct=android
 广东地区,#genre#
-广东民生,http://183.11.239.36:808/hls/18/index.m3u8
+广东体育,http://120.238.85.131:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
 广东影视,http://120.238.85.131:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
+广东4K超高清,http://183.11.239.36:808/hls/9/index.m3u8
 湖南地区,#genre#
 电视剧频道,#genre#
 放映室5,#genre#
@@ -56,6 +58,7 @@ CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
 南京文旅纪录,http://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
 南京十八生活,http://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
 南京少儿,http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
+镇江2,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8
 无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8
@@ -137,6 +140,7 @@ CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
 济源综合,http://live.dxhmt.cn:9081/tv/19001-1.m3u8
 兰考综合,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
 兰考综合,http://live.dxhmt.cn:9081/tv/10225-1.m3u8
+洛阳综合,https://wshlslive.migucloud.com/live/08QAZLG6_C0/playlist.m3u8
 伊川综合,http://tvpull.dxhmt.cn:9081/tv/10329-1.m3u8
 伊川综合,http://live.dxhmt.cn:9081/tv/10329-1.m3u8
 长垣综合,http://tvpull.dxhmt.cn:9081/tv/10728-1.m3u8
@@ -300,7 +304,8 @@ CCTV2超清,http://pull-flv-f1.douyincdn.com/media/stream-695106910011261612.flv
 CCTV16超清,http://74.91.26.218:82/live/cctv16hd.m3u8
 浙江卫视超清,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视超清,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
-辽宁卫视超清,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?msisdn=20260208114041d8d2349a14da474e9d845c72d464e8ef&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20260208114041&Channel_ID=0116_2600036500-99000-201600010014499&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=115.53.204.86&SecurityKey=20260208114041&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b9c769cb084d32c7810d787a45476841&sv=10004&ct=android
+辽宁卫视超清,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?msisdn=202602081725520981a78057aa4fdd9c34d12ce10fff73&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20260208172552&Channel_ID=0116_2600036500-99000-201600010014540&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=61.158.134.200&SecurityKey=20260208172552&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3dcfacc9ae42bfe9359ee45c12c336c6&sv=10004&ct=android
+东南卫视超清,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/dongnanws/51/20230724/index.m3u8?msisdn=20260208180507202ac391e86845ab90f16ac966acc977&mdspid=&spid=600717&netType=0&sid=5910022182&pid=2028597139&timestamp=20260208180507&Channel_ID=0116_2600036500-99000-201600010014578&ProgramID=849116810&ParentNodeID=-99&assertID=5910022182&client_ip=124.236.97.169&SecurityKey=20260208180507&promotionId=&mvid=5900006229&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ff05b59c1364d0ea5f8a0c7bd2a8d948&sv=10004&ct=android
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
