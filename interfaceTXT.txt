@@ -1,8 +1,11 @@
 央视频道,#genre#
 CCTV1综合,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
+CCTV1综合,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
 CCTV2财经,http://pull-flv-f1.douyincdn.com/media/stream-695106910011261612.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202602060901440319625F0A338763618F-7sT6Ki&unique_id=stream-695106910011261612_684_flv&wsSecret=bbf37003c0e4945f50c24773724b6ae3&wsTime=69853d78
 CCTV3综艺,http://74.91.26.218:82/live/cctv3hd.m3u8
+CCTV3综艺,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
+CCTV4中文国际,http://pull-hs-f5.flive.douyincdn.com/media/stream-695320622482588332/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771762324&major_anchor_level=common&sign=443e74f18db2ecce3111df98c860c4cb&t_id=037-20260215201204BE6E5616636261C43ABA-Fijl90&volcSecret=443e74f18db2ecce3111df98c860c4cb&volcTime=1771762324
 CCTV5体育,http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV5体育,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 CCTV6电影,http://74.91.26.218:82/live/cctv6hd.m3u8
@@ -12,10 +15,12 @@ CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
 湖南卫视,http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
+重庆卫视,http://pull-hls-f1.douyincdn.com/media/stream-407089758184145580/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260215201536370762B76CFE6CB754C5-7RB86m&wsSecret=2529cf8396f2cef351204699ece395af&wsTime=6991b8e9
+重庆卫视,http://pull-hls-f26.douyincdn.com/media/stream-118853614155858604.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=699aef0a&major_anchor_level=common&sign=b7c0b52b977a5ab9acac7dd058134679&t_id=037-202602151956579B4CC6A94C1335EAC4BD-MtCr3e
 河南卫视,http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub
 广东地区,#genre#
-广东体育,http://120.238.85.131:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
-广东影视,http://120.238.85.131:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
+广东少儿,http://120.238.85.131:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
+广东4K超高清,http://183.11.239.36:808/hls/9/index.m3u8
 湖南地区,#genre#
 电视剧频道,#genre#
 放映室5,#genre#
@@ -68,6 +73,7 @@ CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
 无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8
 无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8
 北京地区,#genre#
+北京文艺,http://pull-hls-f1.douyincdn.com/media/stream-118859860451525292/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202602152009323917635E113FBCAA7235-oOUVeT&wsSecret=81acbc753f909c2a704a2e0e581901dd&wsTime=6991b77c
 黑龙江地区,#genre#
 哈尔滨新闻综合,https://stream.hrbtv.net/xwzh/sd/live.m3u8
 哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8
@@ -163,6 +169,7 @@ CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
 新乡县综合,http://live.dxhmt.cn:9081/tv/10721-1.m3u8
 舞钢综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢综合,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
+鹤壁新闻,http://pili-live-hls.hebitv.com/hebi/hbtv.m3u8
 灵宝新闻综合,http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8
 灵宝新闻综合,http://live.dxhmt.cn:9081/tv/11282-1.m3u8
 淮滨综合,http://tvpull.dxhmt.cn:9081/tv/11527-1.m3u8
@@ -302,9 +309,11 @@ CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
 放映室6,#genre#
 超清频道,#genre#
 CCTV1超清,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
+CCTV1超清,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV2超清,http://pull-flv-f1.douyincdn.com/media/stream-695106910011261612.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260201084152FCA02A28E82C926FE0D6-TkujMo&unique_id=stream-695106910011261612_684_flv&wsSecret=52d181562d8e2a5dee20184a94272ef3&wsTime=697ea150
 CCTV3超清,http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV3超清,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
+CCTV4超清,http://pull-hs-f5.flive.douyincdn.com/media/stream-695320622482588332/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771762324&major_anchor_level=common&sign=443e74f18db2ecce3111df98c860c4cb&t_id=037-20260215201204BE6E5616636261C43ABA-Fijl90&volcSecret=443e74f18db2ecce3111df98c860c4cb&volcTime=1771762324
 CCTV5超清,http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV5超清,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 CCTV6超清,http://74.91.26.218:82/live/cctv6hd.m3u8
@@ -313,6 +322,9 @@ CCTV16超清,http://74.91.26.218:82/live/cctv16hd.m3u8
 湖南卫视超清,http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
 浙江卫视超清,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视超清,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
+安徽卫视超清,http://pull-hls-f11.douyincdn.com/media/stream-407077894014370476.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771761254&major_anchor_level=common&sign=7e0d517238128b57895bb0f65e5cd8ad&t_id=037-202602151954147B0C79865E97FBB1BF99-mLy0Un
+重庆卫视超清,http://pull-hls-f1.douyincdn.com/media/stream-407089758184145580/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260215201536370762B76CFE6CB754C5-7RB86m&wsSecret=2529cf8396f2cef351204699ece395af&wsTime=6991b8e9
+重庆卫视超清,http://pull-hls-f26.douyincdn.com/media/stream-118853614155858604.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=699aef0a&major_anchor_level=common&sign=b7c0b52b977a5ab9acac7dd058134679&t_id=037-202602151956579B4CC6A94C1335EAC4BD-MtCr3e
 河南卫视超清,http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
