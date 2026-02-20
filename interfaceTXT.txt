@@ -1,5 +1,5 @@
 央视频道,#genre#
-CCTV1综合,http://pull-hls-f1.douyincdn.com/media/stream-407114789655413420/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202602200710094D54BB413BF5154BCA4C-NI6uC6&wsSecret=87e79e976c2166f26b3f7b5c15bf5670&wsTime=69979852
+CCTV1综合,http://pull-hs-f5.flive.douyincdn.com/media/stream-695348130339619500/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1772168826&major_anchor_level=common&sign=0a5915b90b7c0d6895230cabcf7f2814&t_id=037-2026022013070576F9538EF5774AC0A884-GbN1EY&volcSecret=0a5915b90b7c0d6895230cabcf7f2814&volcTime=1772168826
 CCTV1综合,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
 CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
 CCTV3综艺,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
@@ -68,7 +68,6 @@ CCTV5体育,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8
 无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8
 无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8
-宜兴新闻综合,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 北京地区,#genre#
 黑龙江地区,#genre#
 哈尔滨新闻综合,https://stream.hrbtv.net/xwzh/sd/live.m3u8
@@ -303,7 +302,7 @@ CCTV5体育,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 青海地区,#genre#
 放映室6,#genre#
 超清频道,#genre#
-CCTV1超清,http://pull-hls-f1.douyincdn.com/media/stream-407114789655413420/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202602200710094D54BB413BF5154BCA4C-NI6uC6&wsSecret=87e79e976c2166f26b3f7b5c15bf5670&wsTime=69979852
+CCTV1超清,http://pull-hs-f5.flive.douyincdn.com/media/stream-695348130339619500/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1772168826&major_anchor_level=common&sign=0a5915b90b7c0d6895230cabcf7f2814&t_id=037-2026022013070576F9538EF5774AC0A884-GbN1EY&volcSecret=0a5915b90b7c0d6895230cabcf7f2814&volcTime=1772168826
 CCTV1超清,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
 CCTV3超清,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
 CCTV5超清,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
