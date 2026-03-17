@@ -2,8 +2,7 @@
 CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
 CCTV2财经,http://pull-hs-f5.flive.douyincdn.com/media/stream-695486009191695020/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774238434&major_anchor_level=common&sign=26c012c1a353f9acc209aee0b4529937&t_id=037-202603161200346C7AB80C518635B5FCBA-C8Dtkj&volcSecret=26c012c1a353f9acc209aee0b4529937&volcTime=1774238434
 CCTV3综艺,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
-CCTV13新闻,http://pull-hs-f5.flive.douyincdn.com/media/stream-695465280141001388/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774237200&major_anchor_level=common&sign=a0780ead9039f2afa694f3ad8a8c1d07&t_id=037-202603161139598497C7D4BCBB4D65459B-1CRgCC&volcSecret=a0780ead9039f2afa694f3ad8a8c1d07&volcTime=1774237200
-CCTV13新闻,http://pull-hs-f5.flive.douyincdn.com/media/stream-695440843385864876/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774237257&major_anchor_level=common&sign=bcee28c0de0ccb9c56a8ccf0c57eb4e9&t_id=037-2026031611405620145F320BB4CD2EC128-3buT4z&volcSecret=bcee28c0de0ccb9c56a8ccf0c57eb4e9&volcTime=1774237257
+CCTV13新闻,http://pull-hls-f11.douyincdn.com/media/stream-695440843385864876.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774323413&major_anchor_level=common&sign=bfb8ff74617fcdff19b7f069345bddbf&t_id=037-202603171136527F07B27D8B65BC930621-2vH0sa
 CCTV16奥林匹克,http://69.30.246.194/live/cctv16.m3u8
 CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 卫视频道,#genre#
@@ -14,7 +13,9 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 江苏卫视,http://69.30.246.194/live/jsws.m3u8
 广东地区,#genre#
 广东民生,http://183.11.239.36:808/hls/18/index.m3u8
-广东少儿,http://183.11.239.36:808/hls/175/index.m3u8
+广东少儿,http://120.238.85.131:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
+广东影视,http://120.238.85.131:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
+广东4K超高清,http://183.11.239.36:808/hls/9/index.m3u8
 湖南地区,#genre#
 电视剧频道,#genre#
 放映室5,#genre#
@@ -99,7 +100,6 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 万州三峡移民,http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
 辽宁地区,#genre#
 四川地区,#genre#
-泸州3,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
 云南地区,#genre#
 文山综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 腾冲综合,http://live.ynurl.com/video/s10012-TCTV/index.m3u8
@@ -302,8 +302,7 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 超清频道,#genre#
 CCTV2超清,http://pull-hs-f5.flive.douyincdn.com/media/stream-695486009191695020/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774238434&major_anchor_level=common&sign=26c012c1a353f9acc209aee0b4529937&t_id=037-202603161200346C7AB80C518635B5FCBA-C8Dtkj&volcSecret=26c012c1a353f9acc209aee0b4529937&volcTime=1774238434
 CCTV3超清,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
-CCTV13超清,http://pull-hs-f5.flive.douyincdn.com/media/stream-695465280141001388/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774237200&major_anchor_level=common&sign=a0780ead9039f2afa694f3ad8a8c1d07&t_id=037-202603161139598497C7D4BCBB4D65459B-1CRgCC&volcSecret=a0780ead9039f2afa694f3ad8a8c1d07&volcTime=1774237200
-CCTV13超清,http://pull-hs-f5.flive.douyincdn.com/media/stream-695440843385864876/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774237257&major_anchor_level=common&sign=bcee28c0de0ccb9c56a8ccf0c57eb4e9&t_id=037-2026031611405620145F320BB4CD2EC128-3buT4z&volcSecret=bcee28c0de0ccb9c56a8ccf0c57eb4e9&volcTime=1774237257
+CCTV13超清,http://pull-hls-f11.douyincdn.com/media/stream-695440843385864876.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774323413&major_anchor_level=common&sign=bfb8ff74617fcdff19b7f069345bddbf&t_id=037-202603171136527F07B27D8B65BC930621-2vH0sa
 CCTV16超清,http://69.30.246.194/live/cctv16.m3u8
 CCTV16超清,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 湖南卫视超清,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
