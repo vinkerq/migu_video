@@ -2,6 +2,7 @@
 CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
 CCTV2财经,http://pull-hls-f1.douyincdn.com/media/stream-695486009191695020/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260319185709970C130B04BB06F3F387-CrVCFI&wsSecret=937eec71f76b35ab9e0645446783c330&wsTime=69bbd686
 CCTV3综艺,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
+CCTV13新闻,http://pull-hls-f1.douyincdn.com/media/stream-695522156380160684/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260322182803D7BFF5379050A4A1BA98-Dntt4Z&wsSecret=64b6e46187bf8373853426353562162d&wsTime=69bfc433
 CCTV13新闻,http://pull-hls-f1.douyincdn.com/media/stream-695440843385864876/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260319180016A80564ED5545468EA742-GFdhqq&wsSecret=34a32822799c54e7dcdef972de5a9201&wsTime=69bbc931
 CCTV16奥林匹克,http://69.30.246.194/live/cctv16.m3u8
 CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
@@ -12,7 +13,7 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 江苏卫视,http://69.30.246.194/live/jsws.m3u8
 广东地区,#genre#
-广东民生,http://183.11.239.36:808/hls/18/index.m3u8
+广东体育,http://120.238.85.131:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
 广东少儿,http://120.238.85.131:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
 广东影视,http://120.238.85.131:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
 广东4K超高清,http://183.11.239.36:808/hls/9/index.m3u8
@@ -138,6 +139,7 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 青县综合,http://jwcdnqx.hebyun.com.cn/live/qxtvlive1/1500k/tzwj_video.m3u8
 福建地区,#genre#
 河南地区,#genre#
+河南曲艺,http://live.dxhmt.cn:9080/19903718786/854deb36f8db4c9098cad18cc35bd632.m3u8
 济源综合,http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
 济源综合,http://live.dxhmt.cn:9081/tv/19001-1.m3u8
 兰考综合,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
@@ -302,6 +304,7 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 超清频道,#genre#
 CCTV2超清,http://pull-hls-f1.douyincdn.com/media/stream-695486009191695020/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260319185709970C130B04BB06F3F387-CrVCFI&wsSecret=937eec71f76b35ab9e0645446783c330&wsTime=69bbd686
 CCTV3超清,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
+CCTV13超清,http://pull-hls-f1.douyincdn.com/media/stream-695522156380160684/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260322182803D7BFF5379050A4A1BA98-Dntt4Z&wsSecret=64b6e46187bf8373853426353562162d&wsTime=69bfc433
 CCTV13超清,http://pull-hls-f1.douyincdn.com/media/stream-695440843385864876/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260319180016A80564ED5545468EA742-GFdhqq&wsSecret=34a32822799c54e7dcdef972de5a9201&wsTime=69bbc931
 CCTV16超清,http://69.30.246.194/live/cctv16.m3u8
 CCTV16超清,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
