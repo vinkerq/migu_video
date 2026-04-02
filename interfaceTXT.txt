@@ -1,5 +1,7 @@
 央视频道,#genre#
 CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
+CCTV6电影,http://pull-hs-f5.flive.douyincdn.com/media/stream-695587329821377196/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1775731724&major_anchor_level=common&sign=6752d4ca484cbf859784e8c3306baa72&t_id=037-20260402184843295E3571BAF3141828E2-SjKezp&volcSecret=6752d4ca484cbf859784e8c3306baa72&volcTime=1775731724
+CCTV13新闻,http://pull-hls-f1.douyincdn.com/media/stream-695587197212689068/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260402173643D5E04F644E670D03FBE4-d4uyqM&wsSecret=80cece89334429e8a4dd99ae7f8ae56c&wsTime=69ce38ab
 CCTV16奥林匹克,http://69.30.246.194/live/cctv16.m3u8
 CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 CCTV17农业农村,http://pull-hs-f5.flive.douyincdn.com/media/stream-119122162896339628/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1775696494&major_anchor_level=common&sign=f74051792a04ccf76356aec483cb9194&t_id=037-202604020901345CF1285112B278BD991B-Jnsexj&volcSecret=f74051792a04ccf76356aec483cb9194&volcTime=1775696494
@@ -298,7 +300,8 @@ CCTV17农业农村,http://pull-hs-f5.flive.douyincdn.com/media/stream-1191221628
 青海地区,#genre#
 放映室6,#genre#
 超清频道,#genre#
-CCTV13超清,http://pull-hls-f11.douyincdn.com/media/stream-695553383939179180.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1775651921&major_anchor_level=common&sign=0f3e5eb58649c980acb45c230fbd212e&t_id=037-20260401203840F95EAF06830CA99FC12D-5ue7Hg
+CCTV6超清,http://pull-hs-f5.flive.douyincdn.com/media/stream-695587329821377196/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1775731724&major_anchor_level=common&sign=6752d4ca484cbf859784e8c3306baa72&t_id=037-20260402184843295E3571BAF3141828E2-SjKezp&volcSecret=6752d4ca484cbf859784e8c3306baa72&volcTime=1775731724
+CCTV13超清,http://pull-hls-f1.douyincdn.com/media/stream-695587197212689068/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260402173643D5E04F644E670D03FBE4-d4uyqM&wsSecret=80cece89334429e8a4dd99ae7f8ae56c&wsTime=69ce38ab
 CCTV16超清,http://69.30.246.194/live/cctv16.m3u8
 CCTV16超清,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 CCTV17超清,http://pull-hs-f5.flive.douyincdn.com/media/stream-119122162896339628/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1775696494&major_anchor_level=common&sign=f74051792a04ccf76356aec483cb9194&t_id=037-202604020901345CF1285112B278BD991B-Jnsexj&volcSecret=f74051792a04ccf76356aec483cb9194&volcTime=1775696494
