@@ -1,5 +1,4 @@
 央视频道,#genre#
-CCTV1综合,http://pull-hls-f1.douyincdn.com/media/stream-407358390469395116/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202604030611541C3A4AD322C3D7473676-q4FqF5&wsSecret=73504cb3c3b00c2f70677563da0c2a74&wsTime=69cee9ab
 CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
 CCTV6电影,http://pull-hs-f5.flive.douyincdn.com/media/stream-695587329821377196/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1775731724&major_anchor_level=common&sign=6752d4ca484cbf859784e8c3306baa72&t_id=037-20260402184843295E3571BAF3141828E2-SjKezp&volcSecret=6752d4ca484cbf859784e8c3306baa72&volcTime=1775731724
 CCTV13新闻,http://pull-hls-f1.douyincdn.com/media/stream-695587197212689068/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260402173643D5E04F644E670D03FBE4-d4uyqM&wsSecret=80cece89334429e8a4dd99ae7f8ae56c&wsTime=69ce38ab
@@ -16,6 +15,7 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 广东体育,http://120.238.85.131:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
 广东少儿,http://120.238.85.131:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
 广东影视,http://120.238.85.131:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
+广东4K超高清,http://183.11.239.36:808/hls/9/index.m3u8
 湖南地区,#genre#
 电视剧频道,#genre#
 放映室5,#genre#
@@ -42,7 +42,6 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 新昌综合,http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
 平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
-湖州公共频道,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
@@ -62,14 +61,11 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 南京文旅纪录,http://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
 南京十八生活,http://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
 南京少儿,http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
-镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
-镇江2,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8
 无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8
 无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8
 无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8
-宜兴新闻综合,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 北京地区,#genre#
 黑龙江地区,#genre#
 哈尔滨新闻综合,https://stream.hrbtv.net/xwzh/sd/live.m3u8
@@ -304,7 +300,6 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 青海地区,#genre#
 放映室6,#genre#
 超清频道,#genre#
-CCTV1超清,http://pull-hls-f1.douyincdn.com/media/stream-407358390469395116/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202604030611541C3A4AD322C3D7473676-q4FqF5&wsSecret=73504cb3c3b00c2f70677563da0c2a74&wsTime=69cee9ab
 CCTV6超清,http://pull-hs-f5.flive.douyincdn.com/media/stream-695587329821377196/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1775731724&major_anchor_level=common&sign=6752d4ca484cbf859784e8c3306baa72&t_id=037-20260402184843295E3571BAF3141828E2-SjKezp&volcSecret=6752d4ca484cbf859784e8c3306baa72&volcTime=1775731724
 CCTV13超清,http://pull-hls-f1.douyincdn.com/media/stream-695587197212689068/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260402173643D5E04F644E670D03FBE4-d4uyqM&wsSecret=80cece89334429e8a4dd99ae7f8ae56c&wsTime=69ce38ab
 CCTV16超清,http://69.30.246.194/live/cctv16.m3u8
