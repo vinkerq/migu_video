@@ -1,5 +1,7 @@
 央视频道,#genre#
 CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
+CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+CCTV17农业农村,http://pull-hs-f5.flive.douyincdn.com/media/stream-407557252891542188/index.m3u8?expire=1778719635&sign=367fc371f3cb5f83bd8f5dfc3061a1af&volcSecret=367fc371f3cb5f83bd8f5dfc3061a1af&volcTime=1778719635&exp_hrchy=w1&neq=1&major_anchor_level=common&arch_hrchy=w1&t_id=037-2026050708471470A1B0AC634E546FF867-IKhIgd
 卫视频道,#genre#
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
@@ -7,6 +9,7 @@ CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
 广东卫视,http://hlsztemgsplive.miguvideo.com:8080/ws_w/2018/gdws/gdws2000/2000/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699054&netType=4&sid=2202428795&pid=2028597139&timestamp=20260507061844&Channel_ID=0116_2600037000-99000-200300220103080&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=220.196.48.237&SecurityKey=20260507061844&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=efca1018a1d67ced81f9c19ff7a8f12d
 天津卫视,http://223.95.198.3:8000/hls/26/index.m3u8
 广东地区,#genre#
+广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
 广东体育,http://120.238.85.131:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
 广东少儿,http://120.238.85.131:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -44,7 +47,6 @@ CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 缙云新闻综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
-绍兴公共频道,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 龙泉电视台,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 上海地区,#genre#
 江苏地区,#genre#
@@ -58,6 +60,7 @@ CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8
 无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8
 无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8
+宜兴新闻综合,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 北京地区,#genre#
 黑龙江地区,#genre#
 哈尔滨新闻综合,https://stream.hrbtv.net/xwzh/sd/live.m3u8
@@ -92,6 +95,7 @@ CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
 万州三峡移民,http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
 辽宁地区,#genre#
 四川地区,#genre#
+泸州3,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
 云南地区,#genre#
 文山综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 腾冲综合,http://live.ynurl.com/video/s10012-TCTV/index.m3u8
@@ -154,7 +158,6 @@ CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
 新乡县综合,http://live.dxhmt.cn:9081/tv/10721-1.m3u8
 舞钢综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢综合,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
-鹤壁新闻,http://pili-live-hls.hebitv.com/hebi/hbtv.m3u8
 灵宝新闻综合,http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8
 灵宝新闻综合,http://live.dxhmt.cn:9081/tv/11282-1.m3u8
 淮滨综合,http://tvpull.dxhmt.cn:9081/tv/11527-1.m3u8
@@ -292,6 +295,7 @@ CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
 宁夏地区,#genre#
 青海地区,#genre#
 超清频道,#genre#
+CCTV17超清,http://pull-hs-f5.flive.douyincdn.com/media/stream-407557252891542188/index.m3u8?expire=1778719635&sign=367fc371f3cb5f83bd8f5dfc3061a1af&volcSecret=367fc371f3cb5f83bd8f5dfc3061a1af&volcTime=1778719635&exp_hrchy=w1&neq=1&major_anchor_level=common&arch_hrchy=w1&t_id=037-2026050708471470A1B0AC634E546FF867-IKhIgd
 湖南卫视超清,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视超清,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视超清,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
