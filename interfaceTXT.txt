@@ -1,6 +1,7 @@
 央视频道,#genre#
 CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
 CCTV1综合,http://69.30.245.50/live/cctv1.m3u8
+CCTV13新闻,http://pull-f5.douyinliving.com/media/stream-695910577918968658.flv?expire=1780564780&sign=ebb59e73ca90b4a2b1145c2119c27037&volcSecret=ebb59e73ca90b4a2b1145c2119c27037&volcTime=1780564780&arch_hrchy=s2&major_anchor_level=vip&s_anchor=1&unique_id=stream-695910577918968658_850_flv&t_id=037-202605281719407F41169D2C67DC3AB647-6ZbQfN
 CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 卫视频道,#genre#
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
@@ -9,7 +10,7 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 广东地区,#genre#
 广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
-广东4K超高清,http://183.11.239.36:808/hls/9/index.m3u8
+深圳都市,http://111.221.137.234:44330/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南地区,#genre#
 浙江地区,#genre#
 浙江少儿,http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
@@ -42,7 +43,6 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 缙云新闻综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
-绍兴公共频道,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 龙泉电视台,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 上海地区,#genre#
 江苏地区,#genre#
