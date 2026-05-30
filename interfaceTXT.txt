@@ -13,6 +13,7 @@ CCTV17农业农村,http://pull-hs-f5.flive.douyincdn.com/media/stream-1194612021
 广东体育,http://120.238.85.131:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
 广东少儿,http://120.238.85.131:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
 广东影视,http://120.238.85.131:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
+广东4K超高清,http://183.11.239.36:808/hls/9/index.m3u8
 湖南地区,#genre#
 浙江地区,#genre#
 浙江少儿,http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
@@ -292,6 +293,7 @@ CCTV17农业农村,http://pull-hs-f5.flive.douyincdn.com/media/stream-1194612021
 宁夏地区,#genre#
 青海地区,#genre#
 超清频道,#genre#
+CCTV13超清,http://pull-f5.douyinliving.com/media/stream-695910577918968658.flv?expire=1780564780&sign=ebb59e73ca90b4a2b1145c2119c27037&volcSecret=ebb59e73ca90b4a2b1145c2119c27037&volcTime=1780564780&arch_hrchy=s2&major_anchor_level=vip&s_anchor=1&unique_id=stream-695910577918968658_850_flv&t_id=037-202605281719407F41169D2C67DC3AB647-6ZbQfN
 CCTV16超清,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 CCTV17超清,http://pull-hs-f5.flive.douyincdn.com/media/stream-119461202114642604/index.m3u8?expire=1780716352&sign=1a45a570152c14bc5627c519ff291c43&volcSecret=1a45a570152c14bc5627c519ff291c43&volcTime=1780716352&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260530112551A4C8804183CB1DB79CE6-7r0KwW
 湖南卫视超清,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
