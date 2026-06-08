@@ -1,7 +1,6 @@
 央视频道,#genre#
 CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
 CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
-CCTV17农业农村,http://pull-hls-f1.douyincdn.com/media/stream-695971240444953260/playlist.m3u8?keeptime=00093a80&wsSecret=fd6406b37fbea91c9443d160cf83b561&wsTime=6a2610f2&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260608084641FD97384B181253782EB5-tu4TUq
 卫视频道,#genre#
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
@@ -14,7 +13,6 @@ CCTV17农业农村,http://pull-hls-f1.douyincdn.com/media/stream-695971240444953
 广东影视,http://120.238.85.131:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
 广东4K超高清,http://183.11.239.36:808/hls/9/index.m3u8
 深圳少儿,http://120.233.73.4:19901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳都市,http://120.233.73.4:19901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南地区,#genre#
 浙江地区,#genre#
 浙江少儿,http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
@@ -36,6 +34,7 @@ CCTV17农业农村,http://pull-hls-f1.douyincdn.com/media/stream-695971240444953
 新昌综合,http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
 平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
+湖州公共频道,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
@@ -56,12 +55,14 @@ CCTV17农业农村,http://pull-hls-f1.douyincdn.com/media/stream-695971240444953
 南京十八生活,http://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
 南京少儿,http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
 海门经济生活,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenjjzh.m3u8
+镇江2,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 大丰二套,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
 无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8
 无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8
 无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8
 无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8
+涟水综合,http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
 宜兴新闻综合,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 北京地区,#genre#
 黑龙江地区,#genre#
@@ -92,6 +93,7 @@ CCTV17农业农村,http://pull-hls-f1.douyincdn.com/media/stream-695971240444953
 陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
 广西地区,#genre#
 安徽地区,#genre#
+宿州科教,http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
 吉林地区,#genre#
 重庆地区,#genre#
 辽宁地区,#genre#
@@ -296,7 +298,6 @@ CCTV17农业农村,http://pull-hls-f1.douyincdn.com/media/stream-695971240444953
 青海地区,#genre#
 超清频道,#genre#
 CCTV16超清,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
-CCTV17超清,http://pull-hls-f1.douyincdn.com/media/stream-695971240444953260/playlist.m3u8?keeptime=00093a80&wsSecret=fd6406b37fbea91c9443d160cf83b561&wsTime=6a2610f2&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260608084641FD97384B181253782EB5-tu4TUq
 湖南卫视超清,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视超清,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视超清,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
