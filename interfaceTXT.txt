@@ -11,7 +11,6 @@ CCTV17农业农村,http://pull-hls-f1.douyincdn.com/media/stream-119530467389080
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
 广东体育,http://120.238.85.131:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
 广东少儿,http://120.238.85.131:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
-广东少儿,http://183.11.239.36:808/hls/175/index.m3u8
 广东影视,http://120.238.85.131:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
 广东4K超高清,http://183.11.239.36:808/hls/9/index.m3u8
 深圳少儿,http://120.233.73.4:19901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -37,6 +36,7 @@ CCTV17农业农村,http://pull-hls-f1.douyincdn.com/media/stream-119530467389080
 新昌综合,http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
 平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
+湖州公共频道,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
@@ -61,7 +61,6 @@ CCTV17农业农村,http://pull-hls-f1.douyincdn.com/media/stream-119530467389080
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8
 无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8
 无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8
-涟水综合,http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
 北京地区,#genre#
 黑龙江地区,#genre#
 哈尔滨新闻综合,https://stream.hrbtv.net/xwzh/sd/live.m3u8
@@ -95,7 +94,6 @@ CCTV17农业农村,http://pull-hls-f1.douyincdn.com/media/stream-119530467389080
 重庆地区,#genre#
 辽宁地区,#genre#
 四川地区,#genre#
-泸州3,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
 云南地区,#genre#
 文山综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 腾冲综合,http://live.ynurl.com/video/s10012-TCTV/index.m3u8
