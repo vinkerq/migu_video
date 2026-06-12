@@ -1,8 +1,6 @@
 央视频道,#genre#
 CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
-CCTV5体育,http://1.192.82.22:8009/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
-CCTV17农业农村,http://pull-hs-f5.flive.douyincdn.com/media/stream-119533803967349420/index.m3u8?expire=1781830783&sign=cf4fdcda899674970453fce0a10575c2&volcSecret=cf4fdcda899674970453fce0a10575c2&volcTime=1781830783&major_anchor_level=common&arch_hrchy=w1&exp_hrchy=w1&t_id=037-202606120859427BF2BE2A1BCEA989201D-GXlMTm
 卫视频道,#genre#
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
@@ -10,10 +8,10 @@ CCTV17农业农村,http://pull-hs-f5.flive.douyincdn.com/media/stream-1195338039
 广东地区,#genre#
 广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
-广东体育,http://120.238.85.131:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
 广东少儿,http://120.238.85.131:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
 广东影视,http://120.238.85.131:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
 广东4K超高清,http://183.11.239.36:808/hls/9/index.m3u8
+深圳少儿,http://120.233.73.4:19901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳都市,http://120.233.73.4:19901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南地区,#genre#
 浙江地区,#genre#
@@ -293,7 +291,6 @@ CCTV17农业农村,http://pull-hs-f5.flive.douyincdn.com/media/stream-1195338039
 青海地区,#genre#
 超清频道,#genre#
 CCTV16超清,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
-CCTV17超清,http://pull-hs-f5.flive.douyincdn.com/media/stream-119533803967349420/index.m3u8?expire=1781830783&sign=cf4fdcda899674970453fce0a10575c2&volcSecret=cf4fdcda899674970453fce0a10575c2&volcTime=1781830783&major_anchor_level=common&arch_hrchy=w1&exp_hrchy=w1&t_id=037-202606120859427BF2BE2A1BCEA989201D-GXlMTm
 湖南卫视超清,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视超清,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视超清,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
