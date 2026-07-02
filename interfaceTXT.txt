@@ -11,11 +11,12 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 重庆卫视,http://183.185.150.10:9003/hls/22/index.m3u8
 广东地区,#genre#
 广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
+广东移动,http://183.234.143.5:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
+广东嘉佳卡通,http://183.234.143.5:85/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0
 广东少儿,http://183.234.143.5:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-广东影视,http://183.234.143.5:85/tsfile/live/1034_1.m3u8?key=txiptv&playlive=0&authid=0
+广东影视,http://120.238.85.131:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
 深圳少儿,http://120.233.73.4:19901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳都市,http://120.233.73.4:19901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳都市,http://111.221.137.234:44330/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南地区,#genre#
 浙江地区,#genre#
 浙江少儿,http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
@@ -296,7 +297,6 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 青海地区,#genre#
 超清频道,#genre#
 CCTV2超清,http://pull-hs-f5.flive.douyincdn.com/media/stream-407850689824817836/index.m3u8?expire=1783088847&sign=787d2fefbeda003c8ca05c07d4d06b4f&volcSecret=787d2fefbeda003c8ca05c07d4d06b4f&volcTime=1783088847&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260626222726B1D3E9FBB8FAA14275FD-cK1NAV
-CCTV13超清,http://pull-hls-f1.douyinliving.com/media/stream-696107587393815378/playlist.m3u8?keeptime=00093a80&wsSecret=f499c99bfbd0d5b43b1d20ead24f5058&wsTime=6a452729&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&t_id=037-20260701224144E16D5A7566C0BF124425-aeSDux
 CCTV16超清,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 湖南卫视超清,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视超清,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
