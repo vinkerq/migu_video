@@ -89,11 +89,11 @@ CCTV17农业农村,http://pull-hs-f5.flive.douyincdn.com/media/stream-4079228914
 陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
 广西地区,#genre#
 安徽地区,#genre#
+宿州科教,http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
 吉林地区,#genre#
 重庆地区,#genre#
 辽宁地区,#genre#
 四川地区,#genre#
-泸州3,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
 云南地区,#genre#
 文山综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 腾冲综合,http://live.ynurl.com/video/s10012-TCTV/index.m3u8
