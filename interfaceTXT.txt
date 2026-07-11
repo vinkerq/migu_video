@@ -1,5 +1,6 @@
 央视频道,#genre#
 CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
+CCTV13新闻,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_14802739122_strL_EcAvcHdL0Mate.flv?txSecret=9a66f233a011957274168ac5cd22a415&txTime=6a52c4e3&stat=qOo%2FNYQ85BjrTWGrXJByD11xX78Rm32VKyI8DnOFTxpsxrjaMUuJp5AJpQnLIT0I&tsc=origin&highTraffic=2&oidc=watchmen&sidc=2062&no_script=1&srcStrm=SsIbIkFoxVI&ss=s20&tfc_buyer=1
 CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 CCTV17农业农村,http://pull-hs-f5.flive.douyincdn.com/media/stream-407932350368842412/index.m3u8?expire=1784337712&sign=63570405d3e2c6d6ea1b9869f6e59868&volcSecret=63570405d3e2c6d6ea1b9869f6e59868&volcTime=1784337712&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-202607110921529C03A2C214CB3CA207B8-6rDgw4
 卫视频道,#genre#
@@ -8,8 +9,8 @@ CCTV17农业农村,http://pull-hs-f5.flive.douyincdn.com/media/stream-4079323503
 浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 广东地区,#genre#
 广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
-广东移动,http://183.234.143.5:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
 广东嘉佳卡通,http://183.234.143.5:85/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0
+广东少儿,http://183.234.143.5:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
 广东影视,http://183.234.143.5:85/tsfile/live/1034_1.m3u8?key=txiptv&playlive=0&authid=0
 广东影视,http://120.238.85.131:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
 深圳少儿,http://120.233.73.4:19901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -92,6 +93,7 @@ CCTV17农业农村,http://pull-hs-f5.flive.douyincdn.com/media/stream-4079323503
 重庆地区,#genre#
 辽宁地区,#genre#
 四川地区,#genre#
+泸州3,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
 云南地区,#genre#
 文山综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 腾冲综合,http://live.ynurl.com/video/s10012-TCTV/index.m3u8
@@ -154,6 +156,7 @@ CCTV17农业农村,http://pull-hs-f5.flive.douyincdn.com/media/stream-4079323503
 新乡县综合,http://live.dxhmt.cn:9081/tv/10721-1.m3u8
 舞钢综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢综合,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
+鹤壁新闻,http://pili-live-hls.hebitv.com/hebi/hbtv.m3u8
 灵宝新闻综合,http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8
 灵宝新闻综合,http://live.dxhmt.cn:9081/tv/11282-1.m3u8
 淮滨综合,http://tvpull.dxhmt.cn:9081/tv/11527-1.m3u8
@@ -247,6 +250,7 @@ CCTV17农业农村,http://pull-hs-f5.flive.douyincdn.com/media/stream-4079323503
 山西地区,#genre#
 天津地区,#genre#
 天津影视,http://60.26.15.49:85/tsfile/live/17/1003.m3u8?key=txiptv
+天津都市,http://60.26.15.49:85/tsfile/live/21/1004.m3u8?key=txiptv
 天津教育,http://60.26.15.49:85/tsfile/live/29/1006.m3u8?key=txiptv
 贵州地区,#genre#
 海南地区,#genre#
