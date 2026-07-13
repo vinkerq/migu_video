@@ -1,11 +1,9 @@
 央视频道,#genre#
 CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
-CCTV17农业农村,http://pull-hs-f5.flive.douyincdn.com/media/stream-119716021786378924/index.m3u8?expire=1784515064&sign=5cfdab3077f3147bf5db90d05199a404&volcSecret=5cfdab3077f3147bf5db90d05199a404&volcTime=1784515064&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260713103744132345685F53C0B505FE-QNgMgQ
 卫视频道,#genre#
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
-重庆卫视,http://183.11.239.36:808/hls/53/index.m3u8
 广东地区,#genre#
 广东移动,http://183.234.143.5:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
 广东嘉佳卡通,http://183.234.143.5:85/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -92,7 +90,6 @@ CCTV17农业农村,http://pull-hs-f5.flive.douyincdn.com/media/stream-1197160217
 重庆地区,#genre#
 辽宁地区,#genre#
 四川地区,#genre#
-泸州3,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
 云南地区,#genre#
 文山综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 腾冲综合,http://live.ynurl.com/video/s10012-TCTV/index.m3u8
@@ -135,7 +132,6 @@ CCTV17农业农村,http://pull-hs-f5.flive.douyincdn.com/media/stream-1197160217
 济源综合,http://live.dxhmt.cn:9081/tv/19001-1.m3u8
 兰考综合,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
 兰考综合,http://live.dxhmt.cn:9081/tv/10225-1.m3u8
-洛阳文旅,http://wshls.live.migucloud.com/live/Q081CD54_C0/playlist.m3u8
 伊川综合,http://tvpull.dxhmt.cn:9081/tv/10329-1.m3u8
 伊川综合,http://live.dxhmt.cn:9081/tv/10329-1.m3u8
 长垣综合,http://tvpull.dxhmt.cn:9081/tv/10728-1.m3u8
@@ -296,8 +292,6 @@ CCTV17农业农村,http://pull-hs-f5.flive.douyincdn.com/media/stream-1197160217
 宁夏地区,#genre#
 青海地区,#genre#
 超清频道,#genre#
-CCTV13超清,http://pull-hls-f1.douyinliving.com/media/stream-696107587393815378/playlist.m3u8?keeptime=00093a80&wsSecret=bbbd054778ab532edfa97bf7c5395746&wsTime=6a544fee&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&t_id=037-2026071310394131FD5A22CCB9DDAFA77E-5XIF43
-CCTV17超清,http://pull-hs-f5.flive.douyincdn.com/media/stream-119716021786378924/index.m3u8?expire=1784515064&sign=5cfdab3077f3147bf5db90d05199a404&volcSecret=5cfdab3077f3147bf5db90d05199a404&volcTime=1784515064&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260713103744132345685F53C0B505FE-QNgMgQ
 湖南卫视超清,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视超清,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视超清,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
