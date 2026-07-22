@@ -1,9 +1,6 @@
 央视频道,#genre#
 CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
 CCTV2财经,http://pull-hls-f1.douyincdn.com/media/stream-407987562509501100/playlist.m3u8?keeptime=00093a80&wsSecret=4bc9d1e75fd1f07a010e7b1b172dec39&wsTime=6a5dd919&exp_hrchy=w1&major_anchor_level=common&arch_hrchy=w1&t_id=037-202607201615205ACC9353BF3D6E6078BB-Tv3cmJ
-CCTV9纪录,http://txycdn2.video.qq.com/1755788302.m3u8?time=1784644116&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIH7W2bnZSm56B3j7_HezzeBO0bogTPfRUB3da4sg95g3EOkwAjQH--kdLTSzEbq9d6IBcOYCBMwsc5Oyc4u2m8a1AJGh0wZ-MdLmVLlFYeXRArfvxjhl3QPjfILJNbhJ1ciJmgdWlwyxlowh3LCPk_nQV8eorJOzHgum5ST4UBoAgitfH8ihhVBOJXtxUzBSzvmy1_C7gZwICP_rG9MFQ3vzfswfQnYq7CpfqKwHrhwwJXD4A3C92U3tsb_tgK6H_NIq2a4H2kHBfjhiQUIvWdZdjXF7EkfeAQhN6kN9RSILOx2Ej_9-3c4N1goJnK7XqAsEy0RfUW09M2oCL2YOwAg8KWBYrAZ1XwoZ3nsrFFvjk_saVgXG9kV5KvOwhXwU9WplsnhYtEu-jsZExP64HZMnchDTELrHILIkXC1QtYVqYMkk_8Si7STuzjWO7neEfqAZoxXRX80BSa7zXRxqrsf0Ulsf0YbWvAp-Z1-1Gk-biShdau1rM-4-9-Vf4wjVC2RD_c1XoisbkXD52Y0dpBocOyZpsQMjU8ueuZewwEXLlNjN&drmtype=0
-CCTV11戏曲,http://txycdn6.video.qq.com/1370781502.m3u8?time=1784644029&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgICsGtDy7lqwzDWU0nXFLISHwuLPx0vpfpnHUpdx-YA1dEJqg8HOJMTUri8tjWzHrKQcBcKj8RidmBwrxVJbsLkjJVaFvxt6RBECqf4qVZI6qg_ZntJimULUXLvpbFYgNueuxDsPj2NluhZVA3hg-xZK2f0MEOJhB-alEtclPYzEe1O_ZXuhGFRkvZNUHULzo811jzMxU0RvNeWZFmn2I5hlFV_BMdiBqVctcW23cARxme0blpEybioM_ITq1BM1mSMprmXr_ibW6HaUoj1tkd3SUQ0HiBUv75b-5CGsANnf5_TBNmi-NMoqEWG3nekw1Yv9Hr0zg-XOdM9jc86N1mjMEpjeiRuo7FDymPtrs3Jc_vMIWH4aMeLvnpzr50nKue_IX5arq-SC-QXaq427Uz8t8suy6nIVD3CW6Eb21tzzk2TI29gQkyKQcpV7fx0bP_rKUTzq59kHolyl8ebgM_oE7dNkvQ6JJIWZRt1xYzVEixQhgLVQBHq-IAHpMRiBu6tRe9qSBFZQ5Hl_Z_1AvNwV8zfYQ_1wJVAs7RDeGvG-PsCWu&drmtype=0
-CCTV12社会与法,http://txycdn2.video.qq.com/1755789202.m3u8?time=1784643953&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIMQQTxnzDXHm_XZuy0p-FW6oPBIXH5X0O2BMHp7nFCVHED0Bx8UMBEWWFx6thBQ370oBcLIjtuCcEW72N_LW2L4Ra6JlxYKzb6Ev4S35SaNHaN8uanEPZc2lVHtXFflU50OfyNpLi-5gq_eeBGwLhPjqG_dKdQRRPJauj_wqLBGSmFN0-Dh7x-So57BigpIhUiVTHUV_M2GEdWHl3at5GlYE_EUF1JLnrNRcyxDAIc1Rahk4b4WYh1eAyFkiNAjSvhJkUSQNfC6_btav0mx2J3sC122rG9Pa6pEal6MbM-hlepfS3qRz4OHUs30BH2UYf72Ora-84GUx7DzDGHrInIIdP5aA5naCEdzupKa8GNY7xIvgtm-Ie-0t21vPqUTjK1YiFic6dhGe_xw3bVc32kYtUSHX2a2Q_6eISOs2ebDKxdTxA8GjyOqBg2d2SFkU1IiDOKg1dI4T_LbgS6EehdnHHk3G60uKmkwUCj8P0E82IcTcnvl8DC4do_MFjhjPOqEf6NT8qEhVD9YsOG5DNp7_eH1F3pkp3Q621Xzttnls9ykB&drmtype=0
 CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 CCTV17农业农村,http://pull-hs-f5.flive.douyincdn.com/media/stream-119767537632674476/index.m3u8?expire=1785286677&sign=2ddbcb45e5349fdd99d720886cfc8517&volcSecret=2ddbcb45e5349fdd99d720886cfc8517&volcTime=1785286677&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260722085757C47E48066B7616E1F8AD-2kd8Ej
 卫视频道,#genre#
@@ -11,13 +8,8 @@ CCTV17农业农村,http://pull-hs-f5.flive.douyincdn.com/media/stream-1197675376
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 广东地区,#genre#
-广东移动,http://183.234.143.5:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
 广东嘉佳卡通,http://183.234.143.5:85/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0
-广东少儿,http://183.234.143.5:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-广东影视,http://120.238.85.131:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
 深圳少儿,http://120.233.73.4:19901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳都市,http://120.233.73.4:19901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳都市,http://111.221.137.234:44330/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南地区,#genre#
 浙江地区,#genre#
 浙江少儿,http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
@@ -39,6 +31,7 @@ CCTV17农业农村,http://pull-hs-f5.flive.douyincdn.com/media/stream-1197675376
 新昌综合,http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
 平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
+湖州公共频道,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
@@ -50,7 +43,6 @@ CCTV17农业农村,http://pull-hs-f5.flive.douyincdn.com/media/stream-1197675376
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 缙云新闻综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
-绍兴公共频道,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 龙泉电视台,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 上海地区,#genre#
 江苏地区,#genre#
@@ -59,11 +51,19 @@ CCTV17农业农村,http://pull-hs-f5.flive.douyincdn.com/media/stream-1197675376
 南京文旅纪录,http://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
 南京十八生活,http://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
 南京少儿,http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
+海门新闻综合,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenxwzh.m3u8
+海门教育人文,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenjyrw.m3u8
+海门经济生活,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenjjzh.m3u8
+沭阳综合,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
+大丰一套,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
+大丰二套,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
+如东1,http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
 无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8
 无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8
 无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8
 无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8
+涟水综合,http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
 北京地区,#genre#
 黑龙江地区,#genre#
 哈尔滨新闻综合,https://stream.hrbtv.net/xwzh/sd/live.m3u8
@@ -249,6 +249,7 @@ CCTV17农业农村,http://pull-hs-f5.flive.douyincdn.com/media/stream-1197675376
 新密新闻频道,http://live.dxhmt.cn:9081/tv/10183-2.m3u8
 湖北地区,#genre#
 山东地区,#genre#
+菏泽2,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
 新疆地区,#genre#
 山西地区,#genre#
 天津地区,#genre#
@@ -298,8 +299,7 @@ CCTV17农业农村,http://pull-hs-f5.flive.douyincdn.com/media/stream-1197675376
 青海地区,#genre#
 超清频道,#genre#
 CCTV2超清,http://pull-hls-f1.douyincdn.com/media/stream-407987562509501100/playlist.m3u8?keeptime=00093a80&wsSecret=4bc9d1e75fd1f07a010e7b1b172dec39&wsTime=6a5dd919&exp_hrchy=w1&major_anchor_level=common&arch_hrchy=w1&t_id=037-202607201615205ACC9353BF3D6E6078BB-Tv3cmJ
-CCTV9超清,http://txycdn2.video.qq.com/1755788302.m3u8?time=1784644116&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIH7W2bnZSm56B3j7_HezzeBO0bogTPfRUB3da4sg95g3EOkwAjQH--kdLTSzEbq9d6IBcOYCBMwsc5Oyc4u2m8a1AJGh0wZ-MdLmVLlFYeXRArfvxjhl3QPjfILJNbhJ1ciJmgdWlwyxlowh3LCPk_nQV8eorJOzHgum5ST4UBoAgitfH8ihhVBOJXtxUzBSzvmy1_C7gZwICP_rG9MFQ3vzfswfQnYq7CpfqKwHrhwwJXD4A3C92U3tsb_tgK6H_NIq2a4H2kHBfjhiQUIvWdZdjXF7EkfeAQhN6kN9RSILOx2Ej_9-3c4N1goJnK7XqAsEy0RfUW09M2oCL2YOwAg8KWBYrAZ1XwoZ3nsrFFvjk_saVgXG9kV5KvOwhXwU9WplsnhYtEu-jsZExP64HZMnchDTELrHILIkXC1QtYVqYMkk_8Si7STuzjWO7neEfqAZoxXRX80BSa7zXRxqrsf0Ulsf0YbWvAp-Z1-1Gk-biShdau1rM-4-9-Vf4wjVC2RD_c1XoisbkXD52Y0dpBocOyZpsQMjU8ueuZewwEXLlNjN&drmtype=0
-CCTV11超清,http://txycdn6.video.qq.com/1370781502.m3u8?time=1784644029&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgICsGtDy7lqwzDWU0nXFLISHwuLPx0vpfpnHUpdx-YA1dEJqg8HOJMTUri8tjWzHrKQcBcKj8RidmBwrxVJbsLkjJVaFvxt6RBECqf4qVZI6qg_ZntJimULUXLvpbFYgNueuxDsPj2NluhZVA3hg-xZK2f0MEOJhB-alEtclPYzEe1O_ZXuhGFRkvZNUHULzo811jzMxU0RvNeWZFmn2I5hlFV_BMdiBqVctcW23cARxme0blpEybioM_ITq1BM1mSMprmXr_ibW6HaUoj1tkd3SUQ0HiBUv75b-5CGsANnf5_TBNmi-NMoqEWG3nekw1Yv9Hr0zg-XOdM9jc86N1mjMEpjeiRuo7FDymPtrs3Jc_vMIWH4aMeLvnpzr50nKue_IX5arq-SC-QXaq427Uz8t8suy6nIVD3CW6Eb21tzzk2TI29gQkyKQcpV7fx0bP_rKUTzq59kHolyl8ebgM_oE7dNkvQ6JJIWZRt1xYzVEixQhgLVQBHq-IAHpMRiBu6tRe9qSBFZQ5Hl_Z_1AvNwV8zfYQ_1wJVAs7RDeGvG-PsCWu&drmtype=0
+CCTV6超清,http://txycdn3.video.qq.com/1755771402.m3u8?time=1784710273&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIAh-ESKl8mafw-5no33LAT_PwdExF4nkEKgXZrWIwd4EEDE4ysVscjaHjhlNKLzJv1gBcAwUs96tar49gdqG0ZMvb02sCvuixB7O26Od812o7WkvXKEPtZesUB784nxzbhYBXBCmfn3aHF9u9P8c3ipgB9Tbc2ZD6uYRIUYVA7TE2fuT9N2FGDPjZbNaD_yRHAMz8UDx0Geft0hRMqzzijY5nVCG_o_c_ml9Berwct55nXytFnlYgxWTiTau2nzYtr95U8i2SGkoVDZy7-Cn3v7aMH6FNN3YiZES6sbiyVPr0K8IhKVsh6baBayNATL3d4N6WsJxv5mA-heJ4BMyY5CgBKlBJzcGc_kATirQeGSqccwPd7A6juSntiPe46gE3wy1t8geW7x_L8El04MT_lxsGsAkEc9tJrk1HMJxyYOVp8U4kb0lNfJlb8F_kbtyQD6QubQKE4ud_C4TgwAzWJ74x6G7pawnh0SVMQITfm3jyw-E9pkG_ewdxEm6Is5aSLdKUADBG460kHFwJCprr0IE4lqIflYe708bCcIcZ0bm_Dah&drmtype=0
 CCTV16超清,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 CCTV17超清,http://pull-hs-f5.flive.douyincdn.com/media/stream-119767537632674476/index.m3u8?expire=1785286677&sign=2ddbcb45e5349fdd99d720886cfc8517&volcSecret=2ddbcb45e5349fdd99d720886cfc8517&volcTime=1785286677&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260722085757C47E48066B7616E1F8AD-2kd8Ej
 湖南卫视超清,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
