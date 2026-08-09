@@ -3,12 +3,16 @@
 http://play.kankanlive.com/live/1698234869325962.m3u8
 #EXTINF:-1 tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="" group-title="央视频道",CCTV2财经
 http://pull-hls-f1.douyincdn.com/media/stream-407987562509501100/playlist.m3u8?keeptime=00093a80&wsSecret=441a920f31abdd13598c6fa4879136c0&wsTime=6a755863&major_anchor_level=common&exp_hrchy=w1&arch_hrchy=w1&t_id=037-20260807120035BAE8C09ED7FE68A518B5-LmuuPy
+#EXTINF:-1 tvg-id="CCTV5体育" tvg-name="CCTV5体育" tvg-logo="" group-title="央视频道",CCTV5体育
+http://txycdn7.video.qq.com/1369718502.m3u8?time=1786286421&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIBMEVZR30iWJ2a-pqWlG1EHdIc_fYmlZARyBb6kAoIbEEHcNt78gch6y_4V7Isjea4EBcDVL_ZZO22O1oUpXOT-Jln47S1dc59m2HuXM8gBzXCuCdOy-o1Nmp806u4dlQZMfDV_eNWvtLu6O6qgOZzJygXHIgOYZzTEERLXGys2LhSAX1t135G6ZTcE1tNnn_62cMjW40IC-d9P9w38aVtw2d1nrWXCgmg3nzxUPJP1rQJDvQaMQKnLNnbT2OOYtCcQ7gtKtWw3L1xtYjERK2J3NfOam0kKW_d8ayOfCuDD8qnf72cVBQRdwJS74eVJrPfLDyjdGd-Cq6WYBYVPhWQSOxCpmJvonX3cizYSHFTa_ub_DHty_8-rn8ZXpkgNm-soMXSRXxwPNAQY2cKG7ixzY2lVoUW0JPdkfB3hw7FcpiNbj8w1ozVFL3h3s-NmOVAFO8Y86Zm9IjKodF7wnajbSGXzyTQoTO9I9tC458xi6wVS8Cskvia9wXRpPQQZqXW63oqV4bJGjIR1Cd50qfto-pH2MVZFMVbnFPBmf9XsVg3iF&drmtype=0
+#EXTINF:-1 tvg-id="CCTV7国防军事" tvg-name="CCTV7国防军事" tvg-logo="" group-title="央视频道",CCTV7国防军事
+http://txycdn7.video.qq.com/1370436302.m3u8?time=1786286347&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIB_Kp5g2YW_o8FvYDHwSA4_gbq6vr5D5vRou06vBNNoIEPjFHlfGisMxgI-ex_HTJ3gBcGVipy2uKfrjXzRSizJuGOg49cvEWyueDW3rldPtvBfFlIkqIQK2csDvA67OysUDlxEcoQUBIzwNs5Wmpmix7IRODoQDBoS5zIOZhrIxOICK5mk9cIm64mM7ctGghLlqAWcwUDg1-o0siqD_j0GBOMg6ehCG1Z9j0scSWKidbIErVoHxfTkZGT1DpvJTKABrmlB-dKqG0SkZzg5ZIheAIv36V_4yqgSdAfJSBh32A8bPScggWw_Pozu27PZ-4pY_xvtct6ftjI3HVxtqvnxUXxwsOQSWcFAmhsRGpRo8iZyFylRQ3zVDABHpew-EToK_SnlHofFD4Iu862BnmakUFkoqb9kbEcjCEL7QQUiLzSJpdaLBmsUjwUOz9dpeDwSrjJEZPxfTUMR9kRzPJZZ2oKaH-eGuc-1D5gkJNNJgKgzHZEA3TG0I80WNtGsgZ0ITuiq2EmsrobvWVHmqEUiIpNir164pDcxPV3lXnTpxtQlU&drmtype=0
 #EXTINF:-1 tvg-id="CCTV9纪录" tvg-name="CCTV9纪录" tvg-logo="" group-title="央视频道",CCTV9纪录
 http://play.kankanlive.com/live/1698423397390920.m3u8
 #EXTINF:-1 tvg-id="CCTV13新闻" tvg-name="CCTV13新闻" tvg-logo="" group-title="央视频道",CCTV13新闻
 http://pull-hs-f5.flive.douyincdn.com/media/stream-696306310906118828/index.m3u8?expire=1786679962&sign=4d6ff425c01afdceddcabaf627b709f1&volcSecret=4d6ff425c01afdceddcabaf627b709f1&volcTime=1786679962&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260807115922774F3CC52D5E934DB232-gZ0yhW
-#EXTINF:-1 tvg-id="CCTV16奥林匹克" tvg-name="CCTV16奥林匹克" tvg-logo="" group-title="央视频道",CCTV16奥林匹克
-http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="CCTV15音乐" tvg-name="CCTV15音乐" tvg-logo="" group-title="央视频道",CCTV15音乐
+http://txycdn2.video.qq.com/1370782102.m3u8?time=1786286016&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIP_Dadmy93mBFOs2u3PMpubwY30KWlJG0WlmkVyE2jofEP72TPkq8LvXXIV5VDpyPxUBcEiOCD7sS3t7R8DZVp5gLqvBErGTXoGyV5SgL5HQaGbk52ro4XG6uP6CGomZWgRA8XIB5HfF777RgkAU6FOvrFdIa5veMacj4NaV9Az5igUjRZ3f_pmu_hX1F6ilUXEj7vvIuemYcojh9IlYT71Hk0PmjDwq7XgVeAg4OPM--XFqlKT47RURPaacwnEGpgc0ID4zJdBxvmuRTxmy7OaWvSJE_hb8I4zH_9qE7yQ5NlD4w-kv4eyb6E_sGZjGE_uj2ba5JOTgmUuhYrWnrErL-DP1WAUTnzbL73L9jHpWU56B09PLPBXmIty7U5fCOP-UbE-ElYn63LV69NZBrFNALoQGSpmNDGrPv2UDlhijF4ipZOL5AKrr2WzuISP7V5Wme1Ub9zVEgXyHvPU3fnA8JImRVV7cxx3vwbd-jj5_LR-2Brec2gkk097S6hi6ww0JzWkpjW3FXHsJqppDRjkvI1hpkOo-H6eAtDL45xZxo967&drmtype=0
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="" group-title="卫视频道",湖南卫视
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="" group-title="卫视频道",浙江卫视
@@ -25,12 +29,14 @@ http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" tvg-logo="" group-title="广东地区",广东民生
 http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="广东嘉佳卡通" tvg-name="广东嘉佳卡通" tvg-logo="" group-title="广东地区",广东嘉佳卡通
+http://183.234.143.5:85/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="" group-title="广东地区",广东少儿
 http://183.234.143.5:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="" group-title="广东地区",广东影视
+http://183.234.143.5:85/tsfile/live/1034_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="" group-title="广东地区",广东影视
 http://120.238.85.131:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-id="深圳都市" tvg-name="深圳都市" tvg-logo="" group-title="广东地区",深圳都市
-http://120.233.73.4:19901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="" group-title="浙江地区",浙江少儿
 http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
 #EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="" group-title="浙江地区",浙江少儿
@@ -109,10 +115,6 @@ http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenxwzh.m3u8
 http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenjyrw.m3u8
 #EXTINF:-1 tvg-id="海门经济生活" tvg-name="海门经济生活" tvg-logo="" group-title="江苏地区",海门经济生活
 http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenjjzh.m3u8
-#EXTINF:-1 tvg-id="沭阳综合" tvg-name="沭阳综合" tvg-logo="" group-title="江苏地区",沭阳综合
-http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
-#EXTINF:-1 tvg-id="大丰一套" tvg-name="大丰一套" tvg-logo="" group-title="江苏地区",大丰一套
-http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
 #EXTINF:-1 tvg-id="大丰二套" tvg-name="大丰二套" tvg-logo="" group-title="江苏地区",大丰二套
 http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
 #EXTINF:-1 tvg-id="如东1" tvg-name="如东1" tvg-logo="" group-title="江苏地区",如东1
@@ -175,6 +177,8 @@ http://gxlive.snrtv.com/sx7-SD.m3u8
 http://gxlive.snrtv.com/nlws-SD.m3u8
 #EXTINF:-1 tvg-id="陕西西部电影" tvg-name="陕西西部电影" tvg-logo="" group-title="陕西地区",陕西西部电影
 http://gxlive.snrtv.com/sx8-SD.m3u8
+#EXTINF:-1 tvg-id="泸州3" tvg-name="泸州3" tvg-logo="" group-title="四川地区",泸州3
+http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
 #EXTINF:-1 tvg-id="文山综合" tvg-name="文山综合" tvg-logo="" group-title="云南地区",文山综合
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 #EXTINF:-1 tvg-id="腾冲综合" tvg-name="腾冲综合" tvg-logo="" group-title="云南地区",腾冲综合
@@ -543,10 +547,20 @@ https://play.kankanlive.com/live/1680577080200944.m3u8
 http://play.kankanlive.com/live/1680577080200944.flv
 #EXTINF:-1 tvg-id="CCTV2超清" tvg-name="CCTV2超清" tvg-logo="" group-title="超清频道",CCTV2超清
 http://pull-hls-f1.douyincdn.com/media/stream-407987562509501100/playlist.m3u8?keeptime=00093a80&wsSecret=441a920f31abdd13598c6fa4879136c0&wsTime=6a755863&major_anchor_level=common&exp_hrchy=w1&arch_hrchy=w1&t_id=037-20260807120035BAE8C09ED7FE68A518B5-LmuuPy
+#EXTINF:-1 tvg-id="CCTV7超清" tvg-name="CCTV7超清" tvg-logo="" group-title="超清频道",CCTV7超清
+http://txycdn7.video.qq.com/1370436302.m3u8?time=1786286347&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIB_Kp5g2YW_o8FvYDHwSA4_gbq6vr5D5vRou06vBNNoIEPjFHlfGisMxgI-ex_HTJ3gBcGVipy2uKfrjXzRSizJuGOg49cvEWyueDW3rldPtvBfFlIkqIQK2csDvA67OysUDlxEcoQUBIzwNs5Wmpmix7IRODoQDBoS5zIOZhrIxOICK5mk9cIm64mM7ctGghLlqAWcwUDg1-o0siqD_j0GBOMg6ehCG1Z9j0scSWKidbIErVoHxfTkZGT1DpvJTKABrmlB-dKqG0SkZzg5ZIheAIv36V_4yqgSdAfJSBh32A8bPScggWw_Pozu27PZ-4pY_xvtct6ftjI3HVxtqvnxUXxwsOQSWcFAmhsRGpRo8iZyFylRQ3zVDABHpew-EToK_SnlHofFD4Iu862BnmakUFkoqb9kbEcjCEL7QQUiLzSJpdaLBmsUjwUOz9dpeDwSrjJEZPxfTUMR9kRzPJZZ2oKaH-eGuc-1D5gkJNNJgKgzHZEA3TG0I80WNtGsgZ0ITuiq2EmsrobvWVHmqEUiIpNir164pDcxPV3lXnTpxtQlU&drmtype=0
+#EXTINF:-1 tvg-id="CCTV10超清" tvg-name="CCTV10超清" tvg-logo="" group-title="超清频道",CCTV10超清
+http://txycdn5.video.qq.com/1370437002.m3u8?time=1786286226&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIP6EUVfUA0fqZK1_HOkIIbjhK6Dm_LNtsnSu3G3c6AKIECatdj6ob3KlQWi5Ko4ty9oBcJTL5atFasBHgs57Cd1PhUVqXZy2rDvM3pEIYlGK3eHEoArVMVPMvypIe5fFDIiNqXlcnRx1-g7GDBZcPuFDmgzkrrZK5M6JKeHbqmk0ETi_vG7TLJTjiaHLBblcI5NLT_it_GYmlTVznRkaHbwgxuogU4nvV-htfHvTuAeC9nGFBuaNrZXeUVzKhGzqqsaPAGY7AXZmTkoEoAOrJebBQbIQHJjLq9ET7uvfftmiNUYo1lNahYVV8lWCMsTM0fZZAxKTVnQo2Lki5Jry72HMXxX5GbO8MQDRQQfI5qzI8b6USQRosOk-vYtcZZ1EbpENCEiewE0mn5JP7htTGHRVGmwmE2FKbkYc9QrDXU6hof5Jif9N3bY5KDbO9S9sjsHLdSR9uI9WphrWd3rYarai8Wmh2mFC_PHiteYCYFJlRwMoNnELVuahiJ-09fpoSC8CIuD0E_VisjXv9uUaCeoQC78Ud8MhGG5fS5iY4ojoY3yp&drmtype=0
 #EXTINF:-1 tvg-id="CCTV13超清" tvg-name="CCTV13超清" tvg-logo="" group-title="超清频道",CCTV13超清
 http://pull-hs-f5.flive.douyincdn.com/media/stream-696306310906118828/index.m3u8?expire=1786679962&sign=4d6ff425c01afdceddcabaf627b709f1&volcSecret=4d6ff425c01afdceddcabaf627b709f1&volcTime=1786679962&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260807115922774F3CC52D5E934DB232-gZ0yhW
+#EXTINF:-1 tvg-id="CCTV13超清" tvg-name="CCTV13超清" tvg-logo="" group-title="超清频道",CCTV13超清
+http://txycdn2.video.qq.com/1369932002.m3u8?time=1786286100&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIGtvDEzh-QhO9WW8qEnIK_iSiqhuDhawTvgYWBcdjKblEOB1qoUYMGcWxgD8WYii07YBcL7XIMlGOq7tbow_h-yLTBO05rgfZNyrBnw6GucMDwfPbLfnrPzsX2nLUfMchv1RIhvgkeqcqlxLp-GN7T6lw66KfahIePefLgrcUCSkX67IOzwG8D3sNBNOs_KYf_3AojMKxjP6Xp3YaVrzj7sg8YVkDemTBYG_OUa92qJvwf9VOsHww3ishfR-wqAWa6cfWlVhTMc_unuhmES6e8bvA2LPDJ4xDv-i5KwF267eQiRA07s1xCtyHFQCLRmzylL2oEgGcjS6ThE1MHw5WlTgpEotkXTG70moR4VkXYkhJxNXRLpuWPTGBiOm8d1D5QvNUAfbOFWhpWWRZWc9j1Si_1szIhxg3shh3GYkgWGBEaLn2hZs71Wz5XVu7aTLemy5eOZASPs98C9ZkyuSx6hG5lnp1DQXdEAt6wKSP8QUjQidhp4DvUsf0vImCnfeWs9jbVfJYgSbwKzxLgr6dFXHzyT1LvKYBmGY2XVrTMrRDzwa&drmtype=0
+#EXTINF:-1 tvg-id="CCTV14超清" tvg-name="CCTV14超清" tvg-logo="" group-title="超清频道",CCTV14超清
+http://txycdn5.video.qq.com/1755770102.m3u8?time=1786286062&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIGVULJe8j5wVYaJcIqVfhnvaBUefni5lJ1R93qkIEzEYEGLf7aViw1MjBwJN8iwfLTkBcG-U9WvHXPDl_xoUJdR7chbrT5EHziVbeLCsCBKf3vr4Jll4C7oBOfJk9JOtsa8YmFHn07NmTRizCiSvILH0DaNLvkF4hWGiaV-SmEZm6Jy7gti7JsiYyOEgLTCfHlUbH8xm5Y2F4f7XJW5gWvMG16DBfl5K7eAXcUX8bQpymd1mZ6KYOuxa92YQTc1F--yBdKLKwuWe2MiqZq8-2OwO6_AcuBQZr0N-BnHKN7tlazgonfI6ECq0DRb4hb_fCfryhbYoQCK1cGi7ZEkDvXynN5ElCNoVQWtFeLLXTDdX0g1X43Eh-DP1jJ5Hkph1jO66APT-j7SarfTvKUyZSN9uigk4YOqdSzz4-VWNPyVmryA8jBNfu3kdfF-wfRTFbpey-Vr2flaA_ox_almq_tdSsVXRk-0GRFGuSV70dCp5GNX6aRxSQ8heMWHrRuY99nQMNAvvyLKN4xGz82YxsWfidG84iJuEnxGZ2xa3xpdw_D1r&drmtype=0
 #EXTINF:-1 tvg-id="CCTV16超清" tvg-name="CCTV16超清" tvg-logo="" group-title="超清频道",CCTV16超清
 http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="CCTV17超清" tvg-name="CCTV17超清" tvg-logo="" group-title="超清频道",CCTV17超清
+http://txycdn6.video.qq.com/1370437902.m3u8?time=1786285934&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIO4LcT_mJf6JdjXTyQP4AGaNOGKEJ0YOBLUokvVpx8HcEAHaWhfAdG0atkOZhHOdeq8BcAuHvFkHZOntoscwm-aEWVsqFsoZDV8ENplk09NYJDBcnLCI9JlmjXx3gMREZAwd7xBe2sGktMJSbhxlx03TXzLwmxzhTmMbQFKeu5-WLsXi3rKUh59wJ2Qu08i9l1bRWM5q_SfJfAnxbrn5O_SgkT3u0bmy3f9XlqNQ6Y9XsTsaHVs0t1LGR_6VvW9acuUxXU53ztMwMnv6c074J3cBEsbyUYxyR1NHTAVSErnN-ROIULm93mKr41ArcNdHuiJTeDRAMOjUVlKLySWPfFw5MH4xX1SvaQROuDm8PVEIHW7AfP-F0ZCGTgfXSkpJR9enugHHpKL-zvmco8hx-FMo6qc4dqTbNheMoyaQQce5PyFDE_sDawUSjYp-2m1j39gYOTEFkYkI5s_W7LJPqni60tjBn7EGQZ4A7O1EfJry8EkaaAgJa9NacYZQ8ZBeHMwQ1L0qkFUJPOmXuYTVqlglZyGeDcvep1p0wVUjRzOqtd_p&drmtype=0
 #EXTINF:-1 tvg-id="湖南卫视超清" tvg-name="湖南卫视超清" tvg-logo="" group-title="超清频道",湖南卫视超清
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1 tvg-id="浙江卫视超清" tvg-name="浙江卫视超清" tvg-logo="" group-title="超清频道",浙江卫视超清
