@@ -1,7 +1,7 @@
 央视频道,#genre#
 CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
-CCTV8电视剧,http://txycdn4.video.qq.com/1370436702.m3u8?time=1786574959&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIJ7EG5kIBveRhX81BZV0G4IySzeUWjEBTxeaIteAZsu9EImJa4unXXnMjbDtUevEdbEBcJQ3AoKJ36R1Qchuzk2CuvB-Xnzn2lAZyk0Q68-7rm64Wx-J363ND3Drpju_268847tGQJ_pRnr53NWqG8sod5iA-_fZyFKPjO2fUmfLeH7FLO66L2iYUZ7PtQITkuJB20rHvR-wwC7xS-AytZA3LuwzghLf3L3K1bzjsknGtFcQp08MddOJVsBiHG0oKBULngawGss_9YgvpmoRe4wp3wPvv9XuRfvghxUavNsBPdFMo0lYm2xvW5lNIau_-4hNegAtZ0dPKCbgH81MInORi1wTAMEkTsxQUs1T4SUlcxtWtRZ2B8YmvkQwFADGXX1bVBuSuMYyZLItjZc1i2MUxVF67hCk2knjRZPtwbVA7bvgXdaShgk3MlOVN0cWlu4FyiAtomOAdDrn5RhTLxlDMQl4bTZ3oKVfS7NU7N0yJXuK3PmBnq_CeyPrUbTh-M47zlAEuz-PmeWuKWd29A3SsIelY1I7P4m-f98XTKqQOPAc&drmtype=0
 CCTV9纪录,http://play.kankanlive.com/live/1698423397390920.m3u8
+CCTV15音乐,http://txycdn7.video.qq.com/1370782102.m3u8?time=1786574683&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIOXMOvrBjBFn7eLokFtshhQ8aX-rvq8nl2b0lgGPBt8fEL1EYKh-ODQrqIyk3ABLAI8BcFlaz-3OGdWe6EOW0l9DAxJYbRKMRU5L_Lvo2-s8RguqI5S0cV_EQg2703BFft0mgo6ZFf86NXSGGm42EN3bEqSS3Pzd8R15cqvJYsXKAV86E2JqNiQzQGgcWAU5mSePJi58rE5SPkmVmrH9PXdbecb-YMSpLYX3xnt26IZLheyVWh677UYU85MX9_gDdmX2Y0kOg4JKG_4aoqpBsmEKjXKvzOrSSnExfmarLRM65frndRYbOQysPJ7U2D_GCZ9mzSERFA0FFf4VDEHPsac_BCdVvQvWW9hOu3LkOQiwZi6HVuaddvocCbjIU_Aib4UIC1gxWxJQb8eBDlVTzb1SFX4PZ48yNPngN7t-eyv56d45EMffj0ss2zNW5WhWATmXqb4-LW_ZPFFxFOrRLokWOYii4uE9sNHc60gB-hdGnajTNtXmpg_t32GT4hhFcQLbPN7zFGPLyW6FsiXyxTlCC-rqCGpz4rTtyNnQRGZww8yf&drmtype=0
 CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 CCTV世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 CCTV风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
@@ -25,10 +25,8 @@ CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 广东地区,#genre#
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
 广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
-广东移动,http://183.234.143.5:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
 广东嘉佳卡通,http://183.234.143.5:85/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0
 广东少儿,http://183.234.143.5:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-广东影视,http://120.238.85.131:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
 深圳都市,http://120.233.73.4:19901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南地区,#genre#
 浙江地区,#genre#
@@ -313,12 +311,10 @@ CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 宁夏地区,#genre#
 青海地区,#genre#
 超清频道,#genre#
-CCTV16超清,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+CCTV16超清,http://txycdn5.video.qq.com/1370437802.m3u8?time=1786574644&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIMa8SW5DP4r5D_vHlis8jcL4XJy2sf-NL7M8tFg5kQz_EM_S-XZ72fIYVfJoN1uzDSEBcI9N8Uh0ZulZB0vmrkDLbr7gdkCnCOYCAmPvW6IzckDTYhi7z6bObEFHmR5zs-7yZbvVTz37Eq8odvQw5GEFyzPoXe4j2jfnFM3W5l2YNR5uLB9s5IIg1ZufBNXdudZ7qwzu_eU-U_vHaNPXkooLan3ApnsqJRVKxKZja31v1WVY0rezAgPGc_HQ6vMD-btsClY2k4LRcEwOosvBRBXT5EMG2sfEKpxIEiXj32Cb5R99o5tdtOcgUJNE4WTNSCqR6lICubDUkvrPBV08RGkuIh57OkiDyM4DpYimofgqe7NRJfIIv3IJLlzL4hy29zCIaUAN-edZ_IjrPNpqlEUQVESd39xWwOMbm_Vt0IyuOKrBRhB0sbZotSzdphhwiWKLhJmmTz_bw6dNdLwPBS667bY0efWHWZ75QG9eHjCVak3D1UCBbvzJyM_5XnQ-ws1hvufFwud0UDq2SQFgoCJV08W0JgwqFlOLu73kn9lMJIaF&drmtype=0
 湖南卫视超清,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视超清,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视超清,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
-深圳卫视超清,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
-重庆卫视超清,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
