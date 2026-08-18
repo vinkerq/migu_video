@@ -96,13 +96,13 @@
     <programme channel="CCTV1综合" start="20260818200045 +0800" stop="20260818200400 +0800">
         <title lang="zh">前情提要-藏锋-第3集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260818200400 +0800" stop="20260818205350 +0800">
+    <programme channel="CCTV1综合" start="20260818200400 +0800" stop="20260818205420 +0800">
         <title lang="zh">藏锋第3集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260818205350 +0800" stop="20260818205750 +0800">
+    <programme channel="CCTV1综合" start="20260818205420 +0800" stop="20260818205820 +0800">
         <title lang="zh">前情提要-藏锋-第4集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260818205750 +0800" stop="20260818215240 +0800">
+    <programme channel="CCTV1综合" start="20260818205820 +0800" stop="20260818215240 +0800">
         <title lang="zh">藏锋第4集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260818215240 +0800" stop="20260818220000 +0800">
@@ -6567,83 +6567,80 @@
     <channel id="上视东方影视">
         <display-name lang="zh">上视东方影视</display-name>
     </channel>
-    <programme channel="上视东方影视" start="20260817235200 +0800" stop="20260818004700 +0800">
+    <programme channel="上视东方影视" start="20260817235200 +0800" stop="20260818003100 +0800">
         <title lang="zh">30集连续剧：智者无敌（2）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818004700 +0800" stop="20260818060800 +0800">
+    <programme channel="上视东方影视" start="20260818003100 +0800" stop="20260818060900 +0800">
         <title lang="zh">30集连续剧：智者无敌（3）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818060800 +0800" stop="20260818070100 +0800">
+    <programme channel="上视东方影视" start="20260818060900 +0800" stop="20260818065800 +0800">
         <title lang="zh">40集连续剧：勇者（39）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818070100 +0800" stop="20260818080200 +0800">
+    <programme channel="上视东方影视" start="20260818065800 +0800" stop="20260818080000 +0800">
         <title lang="zh">40集连续剧：勇者（40）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818080200 +0800" stop="20260818090000 +0800">
+    <programme channel="上视东方影视" start="20260818080000 +0800" stop="20260818085300 +0800">
         <title lang="zh">45集连续剧：中国远征军（10）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818090000 +0800" stop="20260818095300 +0800">
+    <programme channel="上视东方影视" start="20260818085300 +0800" stop="20260818094500 +0800">
         <title lang="zh">45集连续剧：中国远征军（11）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818095300 +0800" stop="20260818104600 +0800">
+    <programme channel="上视东方影视" start="20260818094500 +0800" stop="20260818103700 +0800">
         <title lang="zh">45集连续剧：中国远征军（12）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818104600 +0800" stop="20260818114100 +0800">
+    <programme channel="上视东方影视" start="20260818103700 +0800" stop="20260818113100 +0800">
         <title lang="zh">45集连续剧：中国远征军（13）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818114100 +0800" stop="20260818123000 +0800">
+    <programme channel="上视东方影视" start="20260818113100 +0800" stop="20260818122500 +0800">
         <title lang="zh">45集连续剧：中国远征军（14）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818123000 +0800" stop="20260818124500 +0800">
+    <programme channel="上视东方影视" start="20260818122500 +0800" stop="20260818124200 +0800">
         <title lang="zh">上海建筑百年</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818124500 +0800" stop="20260818133200 +0800">
+    <programme channel="上视东方影视" start="20260818124200 +0800" stop="20260818133100 +0800">
         <title lang="zh">32集连续剧：枪花（25）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818133200 +0800" stop="20260818134700 +0800">
+    <programme channel="上视东方影视" start="20260818133100 +0800" stop="20260818134700 +0800">
         <title lang="zh">都市焕新家</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818134700 +0800" stop="20260818143900 +0800">
+    <programme channel="上视东方影视" start="20260818134700 +0800" stop="20260818144000 +0800">
         <title lang="zh">32集连续剧：枪花（26）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818143900 +0800" stop="20260818153300 +0800">
+    <programme channel="上视东方影视" start="20260818144000 +0800" stop="20260818153800 +0800">
         <title lang="zh">32集连续剧：枪花（27）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818153300 +0800" stop="20260818162600 +0800">
+    <programme channel="上视东方影视" start="20260818153800 +0800" stop="20260818163000 +0800">
         <title lang="zh">42集连续剧：蜂巢（2）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818162600 +0800" stop="20260818171800 +0800">
+    <programme channel="上视东方影视" start="20260818163000 +0800" stop="20260818172100 +0800">
         <title lang="zh">42集连续剧：蜂巢（3）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818171800 +0800" stop="20260818180500 +0800">
+    <programme channel="上视东方影视" start="20260818172100 +0800" stop="20260818181300 +0800">
         <title lang="zh">42集连续剧：蜂巢（4）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818180500 +0800" stop="20260818185000 +0800">
+    <programme channel="上视东方影视" start="20260818181300 +0800" stop="20260818185000 +0800">
         <title lang="zh">42集连续剧：蜂巢（5）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818185000 +0800" stop="20260818193900 +0800">
+    <programme channel="上视东方影视" start="20260818185000 +0800" stop="20260818193800 +0800">
         <title lang="zh">45集连续剧：中国远征军（15）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818193900 +0800" stop="20260818203200 +0800">
+    <programme channel="上视东方影视" start="20260818193800 +0800" stop="20260818203100 +0800">
         <title lang="zh">45集连续剧：中国远征军（16）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818203200 +0800" stop="20260818212100 +0800">
+    <programme channel="上视东方影视" start="20260818203100 +0800" stop="20260818212400 +0800">
         <title lang="zh">45集连续剧：中国远征军（17）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818212100 +0800" stop="20260818220900 +0800">
+    <programme channel="上视东方影视" start="20260818212400 +0800" stop="20260818221500 +0800">
         <title lang="zh">45集连续剧：中国远征军（18）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818220900 +0800" stop="20260818230000 +0800">
+    <programme channel="上视东方影视" start="20260818221500 +0800" stop="20260818230600 +0800">
         <title lang="zh">45集连续剧：中国远征军（19）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818230000 +0800" stop="20260818233700 +0800">
+    <programme channel="上视东方影视" start="20260818230600 +0800" stop="20260818234800 +0800">
         <title lang="zh">30集连续剧：智者无敌（4）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260818233700 +0800" stop="20260818235300 +0800">
+    <programme channel="上视东方影视" start="20260818234800 +0800" stop="20260819003000 +0800">
         <title lang="zh">30集连续剧：智者无敌（5）</title>
-    </programme>
-    <programme channel="上视东方影视" start="20260818235300 +0800" stop="20260819060800 +0800">
-        <title lang="zh">30集连续剧：智者无敌（6）</title>
     </programme>
     <channel id="上海第一财经">
         <display-name lang="zh">上海第一财经</display-name>
