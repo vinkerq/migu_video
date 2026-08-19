@@ -93,11 +93,8 @@
     <programme channel="CCTV1综合" start="20260819193925 +0800" stop="20260819200400 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260819200400 +0800" stop="20260819214115 +0800">
-        <title lang="zh">专题节目-1</title>
-    </programme>
-    <programme channel="CCTV1综合" start="20260819214115 +0800" stop="20260819220000 +0800">
-        <title lang="zh">专题节目-1</title>
+    <programme channel="CCTV1综合" start="20260819200400 +0800" stop="20260819220000 +0800">
+        <title lang="zh">今夕颂——2026中央广播电视总台七夕晚会-1</title>
     </programme>
     <programme channel="CCTV1综合" start="20260819220000 +0800" stop="20260819223630 +0800">
         <title lang="zh">晚间新闻</title>
@@ -1461,16 +1458,19 @@
     <programme channel="CCTV15音乐" start="20260819172900 +0800" stop="20260819184430 +0800">
         <title lang="zh">民歌·中国-2026-111金风玉露情歌起5</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260819184430 +0800" stop="20260819200000 +0800">
+    <programme channel="CCTV15音乐" start="20260819184430 +0800" stop="20260819195800 +0800">
         <title lang="zh">精彩音乐汇-我的爱对你说-2026-331</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260819200000 +0800" stop="20260819215530 +0800">
+    <programme channel="CCTV15音乐" start="20260819195800 +0800" stop="20260819200400 +0800">
+        <title lang="zh">中国节拍-品味古典49</title>
+    </programme>
+    <programme channel="CCTV15音乐" start="20260819200400 +0800" stop="20260819214945 +0800">
         <title lang="zh">今夕颂——2026中央广播电视总台七夕晚会-1</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260819215530 +0800" stop="20260819230200 +0800">
+    <programme channel="CCTV15音乐" start="20260819214945 +0800" stop="20260819225615 +0800">
         <title lang="zh">CCTV音乐厅-神采正飞扬-中国郎之夜·巴中</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260819230200 +0800" stop="20260819235900 +0800">
+    <programme channel="CCTV15音乐" start="20260819225615 +0800" stop="20260819235900 +0800">
         <title lang="zh">CCTV音乐厅-2026-132-“月下清歌”经典民歌合唱之夜</title>
     </programme>
     <channel id="CCTV17农业农村">
@@ -4371,7 +4371,7 @@
     <programme channel="辽宁卫视" start="20260819232900 +0800" stop="20260819233400 +0800">
         <title lang="zh">带你游辽宁</title>
     </programme>
-    <programme channel="辽宁卫视" start="20260819233400 +0800" stop="20260820003100 +0800">
+    <programme channel="辽宁卫视" start="20260819233400 +0800" stop="20260820000000 +0800">
         <title lang="zh">欢乐点点</title>
     </programme>
     <channel id="河北卫视">
@@ -4500,7 +4500,7 @@
     <programme channel="河北卫视" start="20260819234700 +0800" stop="20260819235500 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260819235500 +0800" stop="20260820000000 +0800">
+    <programme channel="河北卫视" start="20260819235500 +0800" stop="20260820012900 +0800">
         <title lang="zh">乘风踏浪</title>
     </programme>
     <channel id="江西卫视">
