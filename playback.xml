@@ -420,11 +420,11 @@
     <programme channel="CCTV4中文国际" start="20260830163100 +0800" stop="20260830170000 +0800">
         <title lang="zh">国家记忆-2026-50</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20260830170000 +0800" stop="20260830171500 +0800">
+    <programme channel="CCTV4中文国际" start="20260830170000 +0800" stop="20260830173200 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20260830171500 +0800" stop="20260830180000 +0800">
-        <title lang="zh">远方的家2026-14</title>
+    <programme channel="CCTV4中文国际" start="20260830173200 +0800" stop="20260830180000 +0800">
+        <title lang="zh">鲁健访谈-2026-6</title>
     </programme>
     <programme channel="CCTV4中文国际" start="20260830180000 +0800" stop="20260830181500 +0800">
         <title lang="zh">中国新闻</title>
@@ -1671,14 +1671,11 @@
     <programme channel="CCTV4欧洲" start="20260830163100 +0800" stop="20260830170000 +0800">
         <title lang="zh">国家记忆-2026-50</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20260830170000 +0800" stop="20260830171500 +0800">
+    <programme channel="CCTV4欧洲" start="20260830170000 +0800" stop="20260830173000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20260830171500 +0800" stop="20260830175700 +0800">
-        <title lang="zh">远方的家2026-14</title>
-    </programme>
-    <programme channel="CCTV4欧洲" start="20260830175700 +0800" stop="20260830180000 +0800">
-        <title lang="zh">记住乡愁-片段展播-2024-30</title>
+    <programme channel="CCTV4欧洲" start="20260830173000 +0800" stop="20260830180000 +0800">
+        <title lang="zh">鲁健访谈-2026-6</title>
     </programme>
     <programme channel="CCTV4欧洲" start="20260830180000 +0800" stop="20260830181500 +0800">
         <title lang="zh">中国新闻</title>
