@@ -862,25 +862,25 @@
         <title lang="zh">本集提要-交锋-第17集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260914193000 +0800" stop="20260914202540 +0800">
-        <title lang="zh">交锋17/40</title>
+        <title lang="zh">交锋第17集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260914202540 +0800" stop="20260914203040 +0800">
         <title lang="zh">本集提要-交锋-第18集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260914203040 +0800" stop="20260914212440 +0800">
-        <title lang="zh">交锋18/40</title>
+        <title lang="zh">交锋第18集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260914212440 +0800" stop="20260914212940 +0800">
         <title lang="zh">本集提要-兰香如故-第7集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260914212940 +0800" stop="20260914221940 +0800">
-        <title lang="zh">兰香如故7/31</title>
+        <title lang="zh">兰香如故第7集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260914221940 +0800" stop="20260914222140 +0800">
         <title lang="zh">本集提要-兰香如故-第8集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260914222140 +0800" stop="20260914231140 +0800">
-        <title lang="zh">兰香如故8/31</title>
+        <title lang="zh">兰香如故第8集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260914231140 +0800" stop="20260914235740 +0800">
         <title lang="zh">我是刑警第6集</title>
@@ -4218,7 +4218,7 @@
     <programme channel="辽宁卫视" start="20260914225200 +0800" stop="20260914233100 +0800">
         <title lang="zh">欢乐集结号</title>
     </programme>
-    <programme channel="辽宁卫视" start="20260914233100 +0800" stop="20260915000000 +0800">
+    <programme channel="辽宁卫视" start="20260914233100 +0800" stop="20260915000300 +0800">
         <title lang="zh">欢乐集结号</title>
     </programme>
     <channel id="河北卫视">
@@ -4371,7 +4371,7 @@
     <programme channel="河北卫视" start="20260914233300 +0800" stop="20260914235900 +0800">
         <title lang="zh">城市烟火</title>
     </programme>
-    <programme channel="河北卫视" start="20260914235900 +0800" stop="20260915000000 +0800">
+    <programme channel="河北卫视" start="20260914235900 +0800" stop="20260915004100 +0800">
         <title lang="zh">群星闪耀时</title>
     </programme>
     <channel id="江西卫视">
