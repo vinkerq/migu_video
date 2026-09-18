@@ -4,7 +4,6 @@ CCTV2财经,http://pull-hs-f5.flive.douyincdn.com/media/stream-12010545170376362
 CCTV9纪录,http://play.kankanlive.com/live/1698423397390920.m3u8
 CCTV13新闻,http://pull-hls-f1.douyincdn.com/media/stream-696564597484421810/playlist.m3u8?keeptime=00093a80&wsSecret=8f3fbd349b74dc8fce15fdde2ee13fca&wsTime=6aacefe1&major_anchor_level=vip&arch_hrchy=s2&s_anchor=1&t_id=037-202609181601372FF90A5B9885CDA836A0-KBwts5
 CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
-CCTV17农业农村,http://pull-hs-f5.flive.douyincdn.com/media/stream-408332396509266604/index.m3u8?expire=1790327166&sign=a83f8a2f1ef77d857cf212f503bfcd4d&volcSecret=a83f8a2f1ef77d857cf212f503bfcd4d&volcTime=1790327166&exp_hrchy=w1&major_anchor_level=common&arch_hrchy=w1&t_id=037-20260918170606582794CF4BFE1A50F981-gv5hBW
 CCTV世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 CCTV风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 CCTV央视文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
@@ -21,7 +20,6 @@ CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
-深圳卫视,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
 安徽卫视,http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
 天津卫视,http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
 重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
@@ -30,7 +28,9 @@ CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
 广东嘉佳卡通,http://183.234.143.5:85/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0
 广东少儿,http://183.234.143.5:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
+广东影视,http://183.234.143.5:85/tsfile/live/1034_1.m3u8?key=txiptv&playlive=0&authid=0
 广东影视,http://120.238.85.131:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
+深圳都市,http://120.233.73.4:19901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南地区,#genre#
 电视剧频道,#genre#
 放映室5,#genre#
@@ -77,6 +77,7 @@ CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 海门教育人文,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenjyrw.m3u8
 海门经济生活,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenjjzh.m3u8
 大丰二套,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
+如东1,http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
 无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8
 无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8
@@ -267,7 +268,6 @@ CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 新密新闻频道,http://live.dxhmt.cn:9081/tv/10183-2.m3u8
 湖北地区,#genre#
 山东地区,#genre#
-潍坊新闻综合,http://pullwftv.wftvqcm.com/live/wf1pda.m3u8
 潍坊经济生活,http://pullwftv.wftvqcm.com/live/wf2pda.m3u8
 潍坊科教文化,http://pullwftv.wftvqcm.com/live/wf4pda.m3u8
 新疆地区,#genre#
@@ -320,7 +320,6 @@ CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 超清频道,#genre#
 CCTV2超清,http://pull-hs-f5.flive.douyincdn.com/media/stream-120105451703763628/index.m3u8?expire=1790323138&sign=a7664c511f424fba5cd9e6340cb32e42&volcSecret=a7664c511f424fba5cd9e6340cb32e42&volcTime=1790323138&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-202609181558570E977CF76D82ED320390-mQS5Ng
 CCTV16超清,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
-CCTV17超清,http://pull-hs-f5.flive.douyincdn.com/media/stream-408332396509266604/index.m3u8?expire=1790327166&sign=a83f8a2f1ef77d857cf212f503bfcd4d&volcSecret=a83f8a2f1ef77d857cf212f503bfcd4d&volcTime=1790327166&exp_hrchy=w1&major_anchor_level=common&arch_hrchy=w1&t_id=037-20260918170606582794CF4BFE1A50F981-gv5hBW
 湖南卫视超清,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视超清,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视超清,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
